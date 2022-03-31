@@ -1,2 +1,2 @@
-# Lista_Estatica_Sequencial-
-Estrutura de dados : LES - Lista Estática Sequencial com Python
+# Lista Estatica Sequencial
+LES - Lista Estática Sequencial / Estrutura de dados com Python
